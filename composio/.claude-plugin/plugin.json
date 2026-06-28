@@ -1,0 +1,8 @@
+{
+  "name": "composio",
+  "description": "Composio MCP tools for Claude Tag. Declares the hosted Composio MCP server and bundles guidance for using it.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunilcomposio"
+  }
+}
